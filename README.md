@@ -1,16 +1,34 @@
-# flutter_application_1
+# Практическая №1 ПКС
+## Логинов Антон Максимович ЭФБО-01-22
+### Установка
 
-A new Flutter project.
+1. Установил Android Studio и Flutter SDK
 
-## Getting Started
+2. Добавил в переменную среды Path путь E:/flutter/bin
+   
+3. В терминале ввел команду `flutter doctor` и проверила, что все компоненты были установлены корректно
 
-This project is a starting point for a Flutter application.
+![alt text](image.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Создание нового проекта
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. С помощью команды `flutter create` создал новый проект Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. C помощью команды `flutter devices` проверил, с помощью каких устройств можно запустить приложение
+
+![alt text](image-1.png)
+
+3. Открыл проект в Android Studio, предварительно установив плагины Dart и Flutter. 
+
+4. В файле main.dart нашел кусок кода, который нужно изменить
+
+![alt text](image-2.png)
+
+### Запуск приложения
+
+1. С помощью команды `flutter run -d chrome` запустил приложение в Google Chrome
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
