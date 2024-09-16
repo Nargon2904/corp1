@@ -8,7 +8,7 @@
    
 3. В терминале ввел команду `flutter doctor` и проверила, что все компоненты были установлены корректно
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 ### Создание нового проекта
 
@@ -16,19 +16,19 @@
 
 2. C помощью команды `flutter devices` проверил, с помощью каких устройств можно запустить приложение
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 3. Открыл проект в Android Studio, предварительно установив плагины Dart и Flutter. 
 
 4. В файле main.dart нашел кусок кода, который нужно изменить
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 ### Запуск приложения
 
 1. С помощью команды `flutter run -d chrome` запустил приложение в Google Chrome
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 
